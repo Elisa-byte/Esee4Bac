@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityEpic">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/basmul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/basmul" />
+    <Button
+        android:id="@+id/alb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/basmul"
+        android:text="@string/alb" />
+
+    <Button
+        android:id="@+id/nuvela"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/alb"
+        android:layout_centerHorizontal="true"
+        android:text="@string/nuvela" />
+    <Button
+        android:id="@+id/moara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nuvela"
+        android:text="@string/moara" />
+    <Button
+        android:id="@+id/alex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/moara"
+        android:text="@string/alex" />
+
+    <Button
+        android:id="@+id/romanul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/alex"
+        android:layout_centerHorizontal="true"
+        android:text="@string/romanul" />
+    <Button
+        android:id="@+id/ion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/romanul"
+        android:text="@string/ion" />
+    <Button
+        android:id="@+id/baltag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ion"
+        android:text="@string/baltag" />
+    <Button
+        android:id="@+id/ultima"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/baltag"
+        android:text="@string/ultima" />
+    <Button
+        android:id="@+id/eliade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ultima"
+        android:text="@string/eliade" />
+    <Button
+        android:id="@+id/enigma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/eliade"
+        android:text="@string/enigma" />
+    <Button
+        android:id="@+id/morometii"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/enigma"
+        android:text="@string/morometii" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.esee4bac">
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".morometiiRel"></activity>
+        <activity android:name=".morometiiCaract" />
+        <activity android:name=".morometiiTema" />
+        <activity android:name=".ActivityMorometii" />
+        <activity android:name=".enigmaRel" />
+        <activity android:name=".enigmaCaract" />
+        <activity android:name=".enigmaTema" />
+        <activity android:name=".ActivityEnigma" />
+        <activity android:name=".eliadeRel" />
+        <activity android:name=".eliadeCaract" />
+        <activity android:name=".eliadeTema" />
+        <activity android:name=".ActivityEliade" />
+        <activity android:name=".ultimaRel" />
+        <activity android:name=".ultimaCaract" />
+        <activity android:name=".ultimaTema" />
+        <activity android:name=".ActivityUltima" />
+        <activity android:name=".baltagRel" />
+        <activity android:name=".baltagCaract" />
+        <activity android:name=".baltagTema" />
+        <activity android:name=".ActivityBaltag" />
+        <activity android:name=".ionRel" />
+        <activity android:name=".ionCaract" />
+        <activity android:name=".ionTema" />
+        <activity android:name=".ActivityIon" />
+        <activity android:name=".moaraRel" />
+        <activity android:name=".moaraCaract" />
+        <activity android:name=".moaraTema" />
+        <activity android:name=".ActivityMoara" />
+        <activity android:name=".ActivityAlexandru" />
+        <activity android:name=".alexRel" />
+        <activity android:name=".alexCaract" />
+        <activity android:name=".alexTema" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".harapRel" />
+        <activity android:name=".StartingScreenActivity" />
+        <activity android:name=".harapCaract" />
+        <activity android:name=".harapTema" />
+        <activity android:name=".ActivityHarap" />
+        <activity android:name=".ActivityEpic" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

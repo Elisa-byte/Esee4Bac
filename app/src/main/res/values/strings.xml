@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Esee4Bac</string>
+
+    <string name="epic">Genul Epic</string>
+    <string name="liric">Genul Liric</string>
+    <string name="dramatic">Genul Dramatic</string>
+
+    <string name="test">Teste</string>
+    <string name="settings">Settings</string>
+    <string name="download">Download</string>
+
+
+    <string name="openFolder">Open Downloaded Folder</string>
+    <!--
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again
+    <string name="albdownload">Download</string></string>
+    -->
+
+    <string name="basmul">Basmul</string>
+    <string name="alb">Povestea lui Harap-Alb</string>
+
+    <string name="albtema">Tema si viziunea</string>
+    <string name="albcaract">Caracterizare personaj</string>
+    <string name="albrel">Relatia dintre personaje</string>
+
+
+    <string name="nuvela">Nuvela</string>
+    <string name="moara">Moara cu noroc</string>
+    <string name="moaratema">Tema si viziunea</string>
+    <string name="moaracaract">Caracterizare personaj</string>
+    <string name="moararel">Relatia dintre personaje</string>
+
+    <string name="alex">Alexandru Lapusneanu</string>
+    <string name="alextema">Tema si viziunea</string>
+    <string name="alexcaract">Caracterizare personaj</string>
+    <string name="alexrel">Relatia dintre personaje</string>
+
+    <string name="romanul">Romanul</string>
+    <string name="ion">Ion</string>
+    <string name="iontema">Tema si viziunea</string>
+    <string name="ioncaract">Caracterizare personaj</string>
+    <string name="ionrel">Relatia dintre personaje</string>
+
+    <string name="baltag">Baltagul</string>
+    <string name="baltagtema">Tema si viziunea</string>
+    <string name="baltagcaract">Caracterizare personaj</string>
+    <string name="baltagrel">Relatia dintre personaje</string>
+
+    <string name="ultima">Ultima noapte de dragoste, intaia noapte de razboi</string>
+    <string name="ultimatema">Tema si viziunea</string>
+    <string name="ultimacaract">Caracterizare personaj</string>
+    <string name="ultimarel">Relatia dintre personaje</string>
+
+    <string name="eliade">Maitreyi</string>
+    <string name="eliadetema">Tema si viziunea</string>
+    <string name="eliadecaract">Caracterizare personaj</string>
+    <string name="eliaderel">Relatia dintre personaje</string>
+
+    <string name="enigma">Enigma Otiliei</string>
+    <string name="enigmatema">Tema si viziunea</string>
+    <string name="enigmacaract">Caracterizare personaj</string>
+    <string name="enigmarel">Relatia dintre personaje</string>
+
+
+    <string name="morometii">Morometii</string>
+    <string name="morometiitema">Tema si viziunea</string>
+    <string name="morometiicaract">Caracterizare personaj</string>
+    <string name="morometiirel">Relatia dintre personaje</string>
+
+
+    <string name="setharap">Set intrebari -Povestea lui Harap-Alb-</string>
+    <string name="teste_starting_screen">TESTE</string>
+    <string name="text_view_highscore">Highscore: 0</string>
+    <string name="button_start_quiz">Start quiz</string>
+    <string name="text_view_score">Score: 0</string>
+    <string name="text_view_question_count">Question: 1/x</string>
+    <string name="text_view_countdown">00:30</string>
+    <string name="text_view_question">Here will be the question text Here will be the question text Here will be the question text</string>
+    <string name="radio_button1">Option 1</string>
+    <string name="radio_button2">Option 2</string>
+    <string name="radio_button3">Option 3</string>
+    <string name="button_confirm_next">Confirm</string>
+    <string name="text_view_difficulty">Difficulty:</string>
+    <string name="text_view_category">Category:</string>
+</resources>

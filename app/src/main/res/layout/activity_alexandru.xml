@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAlexandru">
+
+    <Button
+        android:id="@+id/alextema"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/alexcaract"
+        android:layout_centerHorizontal="true"
+        android:text="@string/alextema" />
+    <Button
+        android:id="@+id/alexcaract"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/alexrel"
+        android:layout_centerHorizontal="true"
+        android:text="@string/alexcaract" />
+
+    <Button
+        android:id="@+id/alexrel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/alexrel" />
+
+</RelativeLayout>
